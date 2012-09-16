@@ -1,6 +1,6 @@
 # Jekyll
-permalink: /:year/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 10 
 exclude: 
-name: caliu.cat: Status
-baseurl: /
+name: "caliu.cat: Status"
+baseurl: /status
