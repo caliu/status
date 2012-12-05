@@ -1,6 +1,6 @@
 ---
 
-title: Intervenció per actualització de hardware: actualizació
+title: Intervenció per actualització de hardware; actualizació
 layout: default
 
 ---
