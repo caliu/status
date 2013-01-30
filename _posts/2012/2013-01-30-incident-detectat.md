@@ -1,0 +1,1 @@
+Avui a les 12h05 hem detectat que el servidor està inaccessible remotament. Cap dels serveis funciona. En les properes hores algú farà una visita al servidor per aconseguir més informació. Actualitzarem aquest avís amb la informació que anem obtenint.
