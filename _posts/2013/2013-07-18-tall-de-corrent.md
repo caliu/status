@@ -1,6 +1,6 @@
 ---
 
-title: Tall de corrent al centre de càlcul
+title: Tall de corrent al centre de calcul
 layout: default
 
 ---
