@@ -1,8 +1,6 @@
 ---
-
 title: Tall de corrent al centre de calcul
 layout: default
-
 ---
 
 Degut a un tall de corrent al Campus Nord de la UPC, que generosament hostatja el servidor de Caliu,
