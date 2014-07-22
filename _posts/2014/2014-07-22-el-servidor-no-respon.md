@@ -10,4 +10,6 @@ Encara no en coneixem el motiu i estic a l'espera de poder anar fins al CPD per 
 
 Si s'ha produït un tall elèctric no programat, podria ser un problema amb les darreres versions del nucli, que té conflictes amb la gestió del disc extern de backups i provoca que no arrenqui la xarxa (sic).
 
+**09:30** El servidor torna a respondre i encara no sabem què ha passat.
+
 /alexm
