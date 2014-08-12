@@ -33,6 +33,6 @@ Com que el servei de miralls és el que té més impacte us oferim un consell pe
         deb mirror://mirrors.ubuntu.com/mirrors.txt trusty-updates  main restricted universe multiverse
         deb mirror://mirrors.ubuntu.com/mirrors.txt trusty-security main restricted universe multiverse
 
-Si necessiteu posar-vos en contacte amb nosaltres, podeu fer-ho al correu dels masovers a caliu punt cat per a qüestions tècniques relacionades amb el servidor i a junta a caliu punt cat per a qualsevol altra cosa.
+Si necessiteu posar-vos en contacte amb nosaltres, podeu fer-ho al correu dels ''masovers a caliu punt cat'' per a qüestions tècniques relacionades amb el servidor i a ''junta a caliu punt cat'' per a qualsevol altra cosa.
 
 [@alexmuntada](https://twitter.com/alexmuntada)
