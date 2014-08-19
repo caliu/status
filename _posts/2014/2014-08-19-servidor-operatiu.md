@@ -11,5 +11,6 @@ També volem aprofitar per fer públic el nostre agraïment als tècnics del [de
 
 D'altra banda, a la reunió del dia 6 de setembre farem una retrospectiva sobre aquesta incidència per estudiar com podem millorar el servei. Anunciarem els detalls a la llista de correu [caliu-info](http://llistes.cpl.upc.edu/listinfo/caliu-info).
 
-Salut i moltes gràcies per la paciència,
+Salut i moltes gràcies per la paciència.
+
 [@alexmuntada](https://twitter.com/alexmuntada)
