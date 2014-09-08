@@ -1,0 +1,6 @@
+Installing Jekyll for GitHub Pages
+==================================
+
+	sudo apt-get install ruby-bundler
+	bundler install $PWD/.bundle
+	bundle exec jekyll serve
