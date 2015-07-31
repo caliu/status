@@ -9,14 +9,8 @@
 </head>
 <body>
 
-	{% if site.baseurl == null %}
-		{% assign linkhome = "/" %}
-		{% else %}
-		{% assign linkhome = site.baseurl %}
-	{% endif %}
-
 	<header>
-	<h1><a href="{{ linkhome }}">{{ site.name }}</a></h1>
+	<h1><a href="/">{{ site.name }}</a></h1>
 	</header>
 
 	<div class="container">
