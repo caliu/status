@@ -8,3 +8,5 @@ El proper dissabte 8 de juliol els Masovers de Caliu ens reunirem en jornada tè
 Podreu seguir l’evolució de l’actuació per [twitter](https://twitter.com/caliu_cat).
 
 Us preguem que dispenseu les molèsties que el tall us pugui ocasionar.
+
+**Actualització:** el manteniment ha finalitzat. Tots els serveis tornen a estar operatius. Si detecteu qualsevol problema adreceu-vos al correu masovers@caliu.cat. Dilluns al matí el servidor serà traslladat de nou al CPD.
