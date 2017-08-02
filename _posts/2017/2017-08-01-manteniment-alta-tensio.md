@@ -13,3 +13,5 @@ L’apagada del servidor s’iniciarà a les 6:00 i s’allargarà com a mínim 
 Podreu seguir l’evolució de l’actuació per [twitter](https://twitter.com/caliu_cat).
 
 Us preguem que dispenseu les molèsties que el tall us pugui ocasionar.
+
+**Actualització:** el manteniment ha finalitzat. Tots els serveis tornen a estar operatius. Si detecteu qualsevol problema adreceu-vos al correu masovers@caliu.cat.
