@@ -3,3 +3,4 @@ permalink: /:year/:month/:day/:title/
 paginate: 10 
 name: "caliu.cat: Status"
 markdown: kramdown
+url: http://status.caliu.cat
