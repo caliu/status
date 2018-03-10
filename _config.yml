@@ -4,3 +4,4 @@ paginate: 10
 name: "caliu.cat: Status"
 markdown: kramdown
 url: http://status.caliu.cat
+plugins: [jekyll-paginate]
