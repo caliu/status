@@ -7,4 +7,6 @@ Hem detectat que des de fa uns dies cpl.upc.edu, lloc on tenim allotjades les ll
 
 Podreu seguir l’evolució de l’actuació per [twitter](https://twitter.com/caliu_cat).
 
+**Actualització:** hem acabat la migració de les llistes.
+
 Us preguem que dispenseu les molèsties.
