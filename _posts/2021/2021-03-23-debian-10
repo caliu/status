@@ -1,0 +1,16 @@
+---
+layout: default
+title: Actualització a Debian 10
+---
+
+# Actuació per actualitzar a Debian 10
+
+Avui 23 de març a les 10:00 començarem a realitzar l'actualització a
+Debian 10 dels nostres servidors. Preveiem que l'actuació duri com a
+molt tard fins les 12:00.
+
+Primer començarem per servidor de màquines virtuals i tot seguit
+procedirem amb la resta de servidors que encara tenen Debian 9.
+
+Disculpeu les molèsties i romangueu amatents a les novetats.
+
